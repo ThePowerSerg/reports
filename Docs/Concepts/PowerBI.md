@@ -1,5 +1,8 @@
 ## Power BI concepts
 
+### Data model
+A Power BI data model is a query-able data resource that’s optimized for analytics. Reports can query data models by using one of two analytic languages: Data Analysis Expressions (DAX) or Multidimensional Expressions (MDX). Power BI uses DAX, while paginated reports can use either DAX or MDX. The Analyze in Excel features uses MDX.
+
 
 
 
